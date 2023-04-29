@@ -1,4 +1,6 @@
 api_key.json
+input_text.txt
+Out/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
